@@ -1,0 +1,3 @@
+SELECT AVG(age) FROM etudiant;
+
+AVG = fonction agrégée dans le langage SQL qui permet de calculer la moyenne des valeurs.
